@@ -1,0 +1,22 @@
+{
+  "name": "expressformulario",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "formulario",
+    "express",
+    "node",
+    "npm"
+  ],
+  "author": "Hiago Cardoso Felisberto",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
